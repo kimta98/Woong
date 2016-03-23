@@ -21,6 +21,7 @@ excel read lib
 #xlwt 1.0.0
 excel write lib<br>
 font style, cell width ...
+write_merge(r1,r2,c1,c2,label,style)
 
 #requests 2.9.1
 host status
